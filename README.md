@@ -1,4 +1,4 @@
-# Projeto Academia Digtal - DIO
+# Projeto Academia Digital - DIO
 
 
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
